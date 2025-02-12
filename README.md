@@ -64,10 +64,10 @@ The Power BI dashboard will include the following components:
 
 
 **Dashboard**
-![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report_Dashboard.png)
+![Dashboard Image](https://github.com/lalit286/Pizza-Sales-Report-Power-BI-Dashboard/blob/main/Pizza_Sales_Report_Dashboard.png)
 
 **BEST/WORST SELLERS**
-![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Power%20BI%20%7C%20SQL%2C%20Python/Pizza_Sales_Report_Dashboard2.png)
+![Dashboard Image](https://github.com/lalit286/Pizza-Sales-Report-Power-BI-Dashboard/blob/main/Pizza_Sales_Report_Dashboard2.png)
 
 
  **SQL QUERIES**
